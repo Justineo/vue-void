@@ -2,7 +2,6 @@
   "name": "vue-void",
   "description": "A void Vue component to override a (scoped) slot with nothing.",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
     "demo": "vue-cli-service build",
