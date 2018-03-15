@@ -1,6 +1,6 @@
 export default {
   name: 'VVoid',
-  render (h, data) {
+  render (h) {
     return h()
   }
 }
