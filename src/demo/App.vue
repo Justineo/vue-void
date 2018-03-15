@@ -5,7 +5,7 @@
   <v-heading></v-heading>
   <p>👆 Fallback content</p>
   <v-heading><v-void/></v-heading>
-  <p>👆 Overridden with nothing <small>except a zero-width space</small></p>
+  <p>👆 Overridden with nothing</p>
 </div>
 </template>
 
